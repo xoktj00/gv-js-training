@@ -1,0 +1,32 @@
+{
+  "name": "demo-package",
+  "version": "1.0.0",
+  "description": "demo package very demo",
+  "main": "date.js",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "upper-case": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-plugin-react": "^7.20.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npx eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoktj00/gv-js-training.git"
+  },
+  "keywords": [
+    "run"
+  ],
+  "author": "Jiri Oktabec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xoktj00/gv-js-training/issues"
+  },
+  "homepage": "https://github.com/xoktj00/gv-js-training#readme"
+}
